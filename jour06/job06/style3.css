@@ -1,0 +1,11 @@
+body {
+    background-color: lightcoral;
+    font-family: 'Georgia', serif;
+}
+
+form {
+    border: 3px dotted red;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: white;
+}
